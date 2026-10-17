@@ -8,6 +8,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.07,
     "video_file": "podcast_ep1_20261015_182743.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 2,
+    "topic": "Die Kunst der Selbstsabotage: Warum wir uns selbst im Weg stehen und wie wir das ändern",
+    "date": "2026-10-17T12:04:10.631115",
+    "duration_sec": 1498.63,
+    "duration_min": 24.98,
+    "video_file": "podcast_ep2_20261017_113820.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
