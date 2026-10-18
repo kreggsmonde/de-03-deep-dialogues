@@ -17,6 +17,15 @@ const PODCAST_HISTORY = [
     "duration_min": 24.98,
     "video_file": "podcast_ep2_20261017_113820.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 3,
+    "topic": "Die Macht der Gewohnheit: Wie kleine Routinen große Veränderungen bewirken",
+    "date": "2026-10-18T05:40:55.656810",
+    "duration_sec": 1509.55,
+    "duration_min": 25.16,
+    "video_file": "podcast_ep3_20261018_051741.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
