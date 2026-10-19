@@ -26,6 +26,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.16,
     "video_file": "podcast_ep3_20261018_051741.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 4,
+    "topic": "Das Paradox der Wahl: Mehr Optionen, weniger Glück? Psychologische Einblicke in die Entscheidungsfindung",
+    "date": "2026-10-19T05:55:43.333544",
+    "duration_sec": 1522.1,
+    "duration_min": 25.37,
+    "video_file": "podcast_ep4_20261019_053203.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
