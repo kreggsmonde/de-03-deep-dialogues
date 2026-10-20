@@ -34,5 +34,14 @@
     "duration_min": 25.37,
     "video_file": "podcast_ep4_20261019_053203.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 5,
+    "topic": "Die Architektur unseres Denkens: Wie wir unsere inneren Überzeugungen neu gestalten",
+    "date": "2026-10-20T05:58:48.609272",
+    "duration_sec": 1273.39,
+    "duration_min": 21.22,
+    "video_file": "podcast_ep5_20261020_053531.mp4",
+    "platform": "Facebook"
   }
 ]
