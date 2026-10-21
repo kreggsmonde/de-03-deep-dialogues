@@ -44,6 +44,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.22,
     "video_file": "podcast_ep5_20261020_053531.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 6,
+    "topic": "Die Psychologie des Scheiterns: Warum wir Angst davor haben und wie wir es als Sprungbrett nutzen",
+    "date": "2026-10-21T05:48:52.596253",
+    "duration_sec": 1411.39,
+    "duration_min": 23.52,
+    "video_file": "podcast_ep6_20261021_053459.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
