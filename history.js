@@ -53,6 +53,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.52,
     "video_file": "podcast_ep6_20261021_053459.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 7,
+    "topic": "Die unsichtbaren Anker unseres Lebens: Wie limitierende Glaubenssätze unsere Realität formen",
+    "date": "2026-10-22T05:59:59.474704",
+    "duration_sec": 1308.53,
+    "duration_min": 21.81,
+    "video_file": "podcast_ep7_20261022_053828.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
