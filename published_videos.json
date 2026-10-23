@@ -61,5 +61,14 @@
     "duration_min": 21.81,
     "video_file": "podcast_ep7_20261022_053828.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 8,
+    "topic": "Die Kunst der narrativen Konstruktion: Wie unsere Lebensgeschichten unser Sein formen",
+    "date": "2026-10-23T05:57:00.351552",
+    "duration_sec": 1336.06,
+    "duration_min": 22.27,
+    "video_file": "podcast_ep8_20261023_053612.mp4",
+    "platform": "Facebook"
   }
 ]
