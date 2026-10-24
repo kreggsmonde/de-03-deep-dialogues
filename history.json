@@ -70,5 +70,14 @@
     "duration_min": 22.27,
     "video_file": "podcast_ep8_20261023_053612.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 9,
+    "topic": "Die Resilienz des Geistes: Wie wir innere Stärke für stürmische Zeiten aufbauen",
+    "date": "2026-10-24T05:30:13.625011",
+    "duration_sec": 1420.68,
+    "duration_min": 23.68,
+    "video_file": "podcast_ep9_20261024_051529.mp4",
+    "platform": "Facebook"
   }
 ]
