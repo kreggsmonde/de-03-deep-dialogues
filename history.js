@@ -80,6 +80,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.68,
     "video_file": "podcast_ep9_20261024_051529.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 10,
+    "topic": "Die Kunst des Loslassens: Befreiung von emotionalen Lasten für ein leichteres Leben",
+    "date": "2026-10-25T05:48:05.520865",
+    "duration_sec": 1413.0,
+    "duration_min": 23.55,
+    "video_file": "podcast_ep10_20261025_053311.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
