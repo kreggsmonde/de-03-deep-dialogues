@@ -89,6 +89,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.55,
     "video_file": "podcast_ep10_20261025_053311.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 11,
+    "topic": "Die Weisheit der Stille: Wie bewusste Pausen unsere Wahrnehmung schärfen und Kreativität entfachen",
+    "date": "2026-10-26T06:01:23.730348",
+    "duration_sec": 1399.58,
+    "duration_min": 23.33,
+    "video_file": "podcast_ep11_20261026_053819.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
