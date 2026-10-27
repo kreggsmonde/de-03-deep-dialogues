@@ -98,6 +98,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.33,
     "video_file": "podcast_ep11_20261026_053819.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 12,
+    "topic": "Die Kunst der Selbstreflexion: Den inneren Kompass kalibrieren für authentische Entscheidungen",
+    "date": "2026-10-27T06:03:51.227765",
+    "duration_sec": 1371.58,
+    "duration_min": 22.86,
+    "video_file": "podcast_ep12_20261027_055012.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
