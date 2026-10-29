@@ -107,6 +107,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.86,
     "video_file": "podcast_ep12_20261027_055012.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 13,
+    "topic": "Die Kunst der inneren Landkarten: Wie wir unsere Wahrnehmung schärfen und die Realität neu gestalten",
+    "date": "2026-10-29T06:56:46.325504",
+    "duration_sec": 1363.51,
+    "duration_min": 22.73,
+    "video_file": "podcast_ep13_20261029_063957.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
