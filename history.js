@@ -116,6 +116,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.73,
     "video_file": "podcast_ep13_20261029_063957.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 14,
+    "topic": "Die Kunst der inneren Genehmigung: Unabhängigkeit von äußerer Anerkennung meistern",
+    "date": "2026-10-30T06:56:41.529884",
+    "duration_sec": 1436.23,
+    "duration_min": 23.94,
+    "video_file": "podcast_ep14_20261030_064000.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
