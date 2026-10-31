@@ -125,6 +125,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.94,
     "video_file": "podcast_ep14_20261030_064000.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 15,
+    "topic": "Die Psychologie der Perspektivübernahme: Warum wir die Welt nicht sehen, wie sie ist, sondern wie wir sind",
+    "date": "2026-10-31T06:56:23.900491",
+    "duration_sec": 1524.62,
+    "duration_min": 25.41,
+    "video_file": "podcast_ep15_20261031_063025.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
