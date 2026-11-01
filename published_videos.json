@@ -133,5 +133,14 @@
     "duration_min": 25.41,
     "video_file": "podcast_ep15_20261031_063025.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 16,
+    "topic": "Die Kunst der inneren Entscheidungsfreiheit: Wie wir uns von äußeren Erwartungen lösen und authentisch handeln",
+    "date": "2026-11-01T07:18:19.780891",
+    "duration_sec": 1308.91,
+    "duration_min": 21.82,
+    "video_file": "podcast_ep16_20261101_070057.mp4",
+    "platform": "Facebook"
   }
 ]
