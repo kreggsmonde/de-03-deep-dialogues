@@ -142,5 +142,14 @@
     "duration_min": 21.82,
     "video_file": "podcast_ep16_20261101_070057.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 17,
+    "topic": "Die Kunst der mentalen Alchemie: Blei in Gold verwandeln – Wie wir unsere Denkweise transformieren",
+    "date": "2026-11-02T07:19:51.184408",
+    "duration_sec": 1312.68,
+    "duration_min": 21.88,
+    "video_file": "podcast_ep17_20261102_070006.mp4",
+    "platform": "Facebook"
   }
 ]
