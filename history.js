@@ -161,6 +161,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.17,
     "video_file": "podcast_ep18_20261103_072543.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 19,
+    "topic": "Die Kunst der kognitiven Ambidextrie: Wie wir Denkstile wechseln, um Probleme tiefer zu durchdringen",
+    "date": "2026-11-04T07:28:50.105635",
+    "duration_sec": 1341.72,
+    "duration_min": 22.36,
+    "video_file": "podcast_ep19_20261104_070743.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
