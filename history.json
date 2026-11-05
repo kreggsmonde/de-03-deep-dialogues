@@ -169,5 +169,14 @@
     "duration_min": 22.36,
     "video_file": "podcast_ep19_20261104_070743.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 20,
+    "topic": "Die Kunst der inneren Ausrichtung: Wie wir unseren Fokus schärfen und mentale Klarheit gewinnen",
+    "date": "2026-11-05T07:56:49.932404",
+    "duration_sec": 1356.65,
+    "duration_min": 22.61,
+    "video_file": "podcast_ep20_20261105_073622.mp4",
+    "platform": "Facebook"
   }
 ]
