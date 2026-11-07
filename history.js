@@ -188,6 +188,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.76,
     "video_file": "podcast_ep21_20261106_073057.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 22,
+    "topic": "Die Kunst des klaren Denkens: Den Nebel der Komplexität durchbrechen",
+    "date": "2026-11-07T07:04:38.765523",
+    "duration_sec": 1293.67,
+    "duration_min": 21.56,
+    "video_file": "podcast_ep22_20261107_064413.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
