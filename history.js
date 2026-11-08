@@ -197,6 +197,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.56,
     "video_file": "podcast_ep22_20261107_064413.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 23,
+    "topic": "Die Kunst der mentalen Entschleunigung: Wie wir im Zeitalter der Hektik innere Ruhe finden",
+    "date": "2026-11-08T07:11:43.393181",
+    "duration_sec": 1384.03,
+    "duration_min": 23.07,
+    "video_file": "podcast_ep23_20261108_065048.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
