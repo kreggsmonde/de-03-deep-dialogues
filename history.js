@@ -206,6 +206,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.07,
     "video_file": "podcast_ep23_20261108_065048.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 24,
+    "topic": "Why We Make Irrational Decisions",
+    "date": "2026-11-09T07:43:40.259226",
+    "duration_sec": 1396.75,
+    "duration_min": 23.28,
+    "video_file": "podcast_ep24_20261109_072927.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
