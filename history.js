@@ -215,6 +215,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.28,
     "video_file": "podcast_ep24_20261109_072927.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 25,
+    "topic": "Die Kunst der inneren Resonanz: Den eigenen Werten authentisch folgen",
+    "date": "2026-11-10T08:08:56.392542",
+    "duration_sec": 1353.91,
+    "duration_min": 22.57,
+    "video_file": "podcast_ep25_20261110_075517.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
