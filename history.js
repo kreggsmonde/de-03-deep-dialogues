@@ -224,6 +224,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.57,
     "video_file": "podcast_ep25_20261110_075517.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 26,
+    "topic": "Die Illusion der Kontrolle: Warum wir uns ihr hingeben und wie wir wahre Souveränität erlangen",
+    "date": "2026-11-11T07:46:42.841314",
+    "duration_sec": 1495.54,
+    "duration_min": 24.93,
+    "video_file": "podcast_ep26_20261111_072339.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
