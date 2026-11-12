@@ -232,5 +232,14 @@
     "duration_min": 24.93,
     "video_file": "podcast_ep26_20261111_072339.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 27,
+    "topic": "Die Kunst der mentalen Modellbildung: Wie wir uns die Welt erklären und unsere Realität gestalten",
+    "date": "2026-11-12T08:13:16.696579",
+    "duration_sec": 1353.67,
+    "duration_min": 22.56,
+    "video_file": "podcast_ep27_20261112_075255.mp4",
+    "platform": "Facebook"
   }
 ]
