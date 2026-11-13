@@ -242,6 +242,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.56,
     "video_file": "podcast_ep27_20261112_075255.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 28,
+    "topic": "Das Spiel der Erwartungen: Wie wir uns von gesellschaftlichem Druck befreien und authentisch leben",
+    "date": "2026-11-13T07:47:48.477733",
+    "duration_sec": 1420.46,
+    "duration_min": 23.67,
+    "video_file": "podcast_ep28_20261113_073005.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
