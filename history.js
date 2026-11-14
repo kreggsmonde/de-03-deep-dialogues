@@ -251,6 +251,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.67,
     "video_file": "podcast_ep28_20261113_073005.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 29,
+    "topic": "The Art of Meaningful Conversation",
+    "date": "2026-11-14T07:27:34.926951",
+    "duration_sec": 1385.13,
+    "duration_min": 23.09,
+    "video_file": "podcast_ep29_20261114_071430.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
