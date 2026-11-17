@@ -277,5 +277,14 @@
     "duration_min": 23.98,
     "video_file": "podcast_ep31_20261116_072948.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 32,
+    "topic": "Die Kunst der inneren Navigation: Kompass statt Karte – Den Weg durch Unsicherheit finden",
+    "date": "2026-11-17T08:55:53.859665",
+    "duration_sec": 1327.97,
+    "duration_min": 22.13,
+    "video_file": "podcast_ep32_20261117_084155.mp4",
+    "platform": "Facebook"
   }
 ]
