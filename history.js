@@ -287,6 +287,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.13,
     "video_file": "podcast_ep32_20261117_084155.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 33,
+    "topic": "Die Kunst der mentalen Immunität: Wie wir uns gegen negative Einflüsse wappnen",
+    "date": "2026-11-18T08:21:44.695785",
+    "duration_sec": 1263.19,
+    "duration_min": 21.05,
+    "video_file": "podcast_ep33_20261118_080616.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
