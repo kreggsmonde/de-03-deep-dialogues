@@ -296,6 +296,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.05,
     "video_file": "podcast_ep33_20261118_080616.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 34,
+    "topic": "Die Kunst der mentalen Flexibilität: Wie wir uns dem Wandel hingeben und neue Wege beschreiten",
+    "date": "2026-11-19T08:28:52.118905",
+    "duration_sec": 1301.59,
+    "duration_min": 21.69,
+    "video_file": "podcast_ep34_20261119_081253.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
