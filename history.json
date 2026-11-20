@@ -304,5 +304,14 @@
     "duration_min": 21.69,
     "video_file": "podcast_ep34_20261119_081253.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 35,
+    "topic": "Die Kunst der inneren Alchemie: Blei in Gold verwandeln – Wie wir unsere Denkweise transformieren",
+    "date": "2026-11-20T08:14:25.172085",
+    "duration_sec": 1519.37,
+    "duration_min": 25.32,
+    "video_file": "podcast_ep35_20261120_075536.mp4",
+    "platform": "Facebook"
   }
 ]
