@@ -314,6 +314,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.32,
     "video_file": "podcast_ep35_20261120_075536.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 36,
+    "topic": "Die Kunst der mentalen Gelassenheit: Meistere den Sturm im Inneren",
+    "date": "2026-11-21T08:10:15.576854",
+    "duration_sec": 1349.88,
+    "duration_min": 22.5,
+    "video_file": "podcast_ep36_20261121_075337.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
