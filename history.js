@@ -323,6 +323,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.5,
     "video_file": "podcast_ep36_20261121_075337.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 37,
+    "topic": "Die Kunst der mentalen Balance: Wie wir innere Stabilität in einer chaotischen Welt finden",
+    "date": "2026-11-22T07:55:53.027235",
+    "duration_sec": 1364.45,
+    "duration_min": 22.74,
+    "video_file": "podcast_ep37_20261122_073928.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
