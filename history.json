@@ -331,5 +331,14 @@
     "duration_min": 22.74,
     "video_file": "podcast_ep37_20261122_073928.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 38,
+    "topic": "Die Kunst der subtilen Überzeugung: Wie wir unsere Argumente unwiderstehlich machen, ohne zu manipulieren",
+    "date": "2026-11-23T08:49:08.190635",
+    "duration_sec": 1381.34,
+    "duration_min": 23.02,
+    "video_file": "podcast_ep38_20261123_082736.mp4",
+    "platform": "Facebook"
   }
 ]
