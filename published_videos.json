@@ -340,5 +340,14 @@
     "duration_min": 23.02,
     "video_file": "podcast_ep38_20261123_082736.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 39,
+    "topic": "Books That Reshape How We Think",
+    "date": "2026-11-24T10:54:13.744969",
+    "duration_sec": 1420.37,
+    "duration_min": 23.67,
+    "video_file": "podcast_ep39_20261124_103541.mp4",
+    "platform": "Facebook"
   }
 ]
