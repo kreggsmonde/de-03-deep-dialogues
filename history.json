@@ -349,5 +349,14 @@
     "duration_min": 23.67,
     "video_file": "podcast_ep39_20261124_103541.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 40,
+    "topic": "Die Kunst der mentalen Gerüstbauer: Wie wir unsere Überzeugungen stabilisieren und Selbstzweifel abbauen",
+    "date": "2026-11-25T09:42:41.209655",
+    "duration_sec": 1381.58,
+    "duration_min": 23.03,
+    "video_file": "podcast_ep40_20261125_092524.mp4",
+    "platform": "Facebook"
   }
 ]
