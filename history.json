@@ -358,5 +358,14 @@
     "duration_min": 23.03,
     "video_file": "podcast_ep40_20261125_092524.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 41,
+    "topic": "Die Psychologie der Gewohnheitsschleifen: Wie wir dysfunktionale Muster durchbrechen und bewusste Routinen etablieren",
+    "date": "2026-11-26T09:25:17.681123",
+    "duration_sec": 1461.6,
+    "duration_min": 24.36,
+    "video_file": "podcast_ep41_20261126_090244.mp4",
+    "platform": "Facebook"
   }
 ]
