@@ -367,5 +367,14 @@
     "duration_min": 24.36,
     "video_file": "podcast_ep41_20261126_090244.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 42,
+    "topic": "Die Kunst der inneren Landschaftspflege: Den Garten des Geistes kultivieren",
+    "date": "2026-11-27T09:42:43.638317",
+    "duration_sec": 1453.2,
+    "duration_min": 24.22,
+    "video_file": "podcast_ep42_20261127_091951.mp4",
+    "platform": "Facebook"
   }
 ]
